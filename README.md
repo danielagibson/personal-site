@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Hello! This is is my personal website. I'm creating this not only to demonstrate my programming abilites,
+Hello! This is my personal website. I'm creating this not only to demonstrate my programming abilites,
 but also to have a personal plot of land on the web where I can share whatever I want to! I am a big proponent of
 transparency in software, so I feel it's best to make any code I write for this project open to the world.
 
