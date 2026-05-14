@@ -15,5 +15,13 @@ None!
 
 ### To-do
 
-- Create File Structure
-- Create basic HTML site
+- ~~Create File Structure~~
+- ~~Create basic HTML site~~
+- # Main Site
+    - Stylize link buttons
+    - Add an about me
+    - Make site responsive
+    - Make site accessible on mobile
+- # Projects
+- # Blog
+- # Music
